@@ -25,11 +25,11 @@ function BottomNav({ pathname }: { pathname: string }) {
       data-print-hide
       className="fixed inset-x-0 bottom-0 z-40 border-t bg-card/95 pb-[env(safe-area-inset-bottom)] shadow-[0_-4px_16px_-8px_oklch(0.25_0.04_260/0.15)] backdrop-blur supports-[backdrop-filter]:bg-card/90 md:hidden"
     >
-      <ul className="mx-auto grid max-w-lg grid-cols-4">
+      <ul className="mx-auto flex max-w-md justify-center">
         {MOBILE_NAV.map((item) => {
           const active = item.match(pathname)
           return (
-            <li key={item.href}>
+            <li key={item.href} className="flex-1">
               <Link
                 href={item.href}
                 aria-current={active ? "page" : undefined}
