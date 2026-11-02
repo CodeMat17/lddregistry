@@ -1,0 +1,102 @@
+[
+  {
+    "id": "exhibitors-premises",
+    "label": "Exhibitors Premises",
+    "shortLabel": "Exhibition Premises",
+    "sourceSheet": "EXHIBITORS PREMISES",
+    "description": "Licensed cinema and exhibition premises, with screen and seating records.",
+    "icon": "building",
+    "screensRelevant": true,
+    "recordCount": 135
+  },
+  {
+    "id": "national-distributors",
+    "label": "National Distributors",
+    "shortLabel": "National Dist.",
+    "sourceSheet": "NATIONAL DISTRIBUTORS",
+    "description": "Operators licensed to distribute films nationwide.",
+    "icon": "truck",
+    "screensRelevant": false,
+    "recordCount": 71
+  },
+  {
+    "id": "regional-exhibitors",
+    "label": "Regional Exhibitors",
+    "shortLabel": "Regional Exh.",
+    "sourceSheet": "REGIONAL EXHIBITORS",
+    "description": "Exhibitors licensed to operate within a region.",
+    "icon": "map-pin",
+    "screensRelevant": true,
+    "recordCount": 65
+  },
+  {
+    "id": "community-exhibitors",
+    "label": "Community Exhibitors",
+    "shortLabel": "Community Exh.",
+    "sourceSheet": "COMMUNITY EXHIBITORS",
+    "description": "Community-level exhibition licences.",
+    "icon": "users",
+    "screensRelevant": true,
+    "recordCount": 22
+  },
+  {
+    "id": "viewing-centres",
+    "label": "Viewing Centres",
+    "shortLabel": "Viewing Centres",
+    "sourceSheet": "VIEWING CENTRE",
+    "description": "Licensed public viewing centres.",
+    "icon": "tv",
+    "screensRelevant": true,
+    "recordCount": 4
+  },
+  {
+    "id": "online-distributors",
+    "label": "Online Distributors",
+    "shortLabel": "Online Dist.",
+    "sourceSheet": "ONLINE DISTRIBUTORS",
+    "description": "Operators licensed to distribute films online.",
+    "icon": "globe",
+    "screensRelevant": false,
+    "recordCount": 11
+  },
+  {
+    "id": "national-exhibitors",
+    "label": "National Exhibitors",
+    "shortLabel": "National Exh.",
+    "sourceSheet": "NATIONAL EXHIBITORS",
+    "description": "Exhibitors licensed to operate nationwide.",
+    "icon": "landmark",
+    "screensRelevant": true,
+    "recordCount": 13
+  },
+  {
+    "id": "regional-distributors",
+    "label": "Regional Distributors",
+    "shortLabel": "Regional Dist.",
+    "sourceSheet": "REGIONAL DISTRIBUTORS",
+    "description": "Operators licensed to distribute films within a region.",
+    "icon": "route",
+    "screensRelevant": false,
+    "recordCount": 9
+  },
+  {
+    "id": "drive-in-cinemas",
+    "label": "Drive-in Cinemas",
+    "shortLabel": "Drive-in",
+    "sourceSheet": "DRIVE IN CINEMA",
+    "description": "Drive-in and outdoor cinema licences.",
+    "icon": "car",
+    "screensRelevant": true,
+    "recordCount": 5
+  },
+  {
+    "id": "sub-urban",
+    "label": "Sub-urban",
+    "shortLabel": "Sub-urban",
+    "sourceSheet": "SUB URBAN",
+    "description": "Sub-urban exhibition licences.",
+    "icon": "trees",
+    "screensRelevant": true,
+    "recordCount": 1
+  }
+]

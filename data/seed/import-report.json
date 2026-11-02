@@ -1,0 +1,2999 @@
+{
+  "sourceFile": "DATABASE UPDATE-1.xlsx",
+  "generatedAt": "2026-10-31T22:28:12.197Z",
+  "sheets": [
+    {
+      "sheetName": "EXHIBITORS PREMISES",
+      "columns": [
+        "S/N",
+        "Cinema_Name",
+        "State",
+        "Region",
+        "LGA",
+        "Precise_Address",
+        "Category",
+        "Chain",
+        "No of Screens OLD",
+        "Screen Details OLD",
+        "No of Screens NEW",
+        "Screens Details NEW",
+        "Total_Seats",
+        "Contact_Person",
+        "Phone",
+        "Email",
+        "OLD/NEW",
+        "License_Status",
+        "Date_of_Issue",
+        "Date_of_Expiration",
+        "Last_Inspection_Date"
+      ],
+      "mapped": {
+        "serial": "S/N",
+        "name": "Cinema_Name",
+        "state": "State",
+        "zone": "Region",
+        "lga": "LGA",
+        "address": "Precise_Address",
+        "category": "Category",
+        "chain": "Chain",
+        "screensOld": "No of Screens OLD",
+        "screenDetailsOld": "Screen Details OLD",
+        "screensNew": "No of Screens NEW",
+        "screenDetailsNew": "Screens Details NEW",
+        "seats": "Total_Seats",
+        "contactPerson": "Contact_Person",
+        "phone": "Phone",
+        "email": "Email",
+        "oldNew": "OLD/NEW",
+        "licenceStatus": "License_Status",
+        "issueDate": "Date_of_Issue",
+        "expiryDate": "Date_of_Expiration",
+        "lastInspection": "Last_Inspection_Date"
+      },
+      "unmapped": [],
+      "recordCount": 135,
+      "blankRowsSkipped": 0,
+      "warnings": [],
+      "errors": [],
+      "categoryId": "exhibitors-premises",
+      "headerRow": 2
+    },
+    {
+      "sheetName": "NATIONAL DISTRIBUTORS",
+      "columns": [
+        "S/N",
+        "Cinema_Name",
+        "State",
+        "Region",
+        "LGA",
+        "Precise_Address",
+        "Category",
+        "Chain",
+        "No_of_Screens",
+        "Screen_Details",
+        "Total_Seats",
+        "Contact_Person",
+        "Phone",
+        "Email",
+        "OLD/NEW",
+        "License_Status",
+        "Date_of_Issue",
+        "Date_of_Expiration",
+        "Last_Inspection_Date"
+      ],
+      "mapped": {
+        "serial": "S/N",
+        "name": "Cinema_Name",
+        "state": "State",
+        "zone": "Region",
+        "lga": "LGA",
+        "address": "Precise_Address",
+        "category": "Category",
+        "chain": "Chain",
+        "screens": "No_of_Screens",
+        "screenDetails": "Screen_Details",
+        "seats": "Total_Seats",
+        "contactPerson": "Contact_Person",
+        "phone": "Phone",
+        "email": "Email",
+        "oldNew": "OLD/NEW",
+        "licenceStatus": "License_Status",
+        "issueDate": "Date_of_Issue",
+        "expiryDate": "Date_of_Expiration",
+        "lastInspection": "Last_Inspection_Date"
+      },
+      "unmapped": [],
+      "recordCount": 71,
+      "blankRowsSkipped": 0,
+      "warnings": [],
+      "errors": [],
+      "categoryId": "national-distributors",
+      "headerRow": 2
+    },
+    {
+      "sheetName": "REGIONAL EXHIBITORS",
+      "columns": [
+        "S/N",
+        "Cinema_Name",
+        "State",
+        "Region",
+        "Lga",
+        "Precise_Address",
+        "Category",
+        "Chain",
+        "No_of_Screens",
+        "Screen_Details",
+        "Total_Seats",
+        "Contact_Person",
+        "Phone",
+        "Email",
+        "OLD/NEW",
+        "License_Status",
+        "Date_of_Issue",
+        "Date_of_Expiration",
+        "Last_Inspection_Date"
+      ],
+      "mapped": {
+        "serial": "S/N",
+        "name": "Cinema_Name",
+        "state": "State",
+        "zone": "Region",
+        "lga": "Lga",
+        "address": "Precise_Address",
+        "category": "Category",
+        "chain": "Chain",
+        "screens": "No_of_Screens",
+        "screenDetails": "Screen_Details",
+        "seats": "Total_Seats",
+        "contactPerson": "Contact_Person",
+        "phone": "Phone",
+        "email": "Email",
+        "oldNew": "OLD/NEW",
+        "licenceStatus": "License_Status",
+        "issueDate": "Date_of_Issue",
+        "expiryDate": "Date_of_Expiration",
+        "lastInspection": "Last_Inspection_Date"
+      },
+      "unmapped": [],
+      "recordCount": 65,
+      "blankRowsSkipped": 0,
+      "warnings": [],
+      "errors": [],
+      "categoryId": "regional-exhibitors",
+      "headerRow": 2
+    },
+    {
+      "sheetName": "COMMUNITY EXHIBITORS",
+      "columns": [
+        "S/N",
+        "Cinema_Name",
+        "State",
+        "Region",
+        "Lga",
+        "Precise_Address",
+        "Category",
+        "Chain",
+        "No_of_Screens",
+        "Screen_Details",
+        "Total_Seats",
+        "Contact_Person",
+        "Phone",
+        "Email",
+        "OLD/NEW",
+        "License_Status",
+        "Date_of_Issue",
+        "Date_of_Expiration"
+      ],
+      "mapped": {
+        "serial": "S/N",
+        "name": "Cinema_Name",
+        "state": "State",
+        "zone": "Region",
+        "lga": "Lga",
+        "address": "Precise_Address",
+        "category": "Category",
+        "chain": "Chain",
+        "screens": "No_of_Screens",
+        "screenDetails": "Screen_Details",
+        "seats": "Total_Seats",
+        "contactPerson": "Contact_Person",
+        "phone": "Phone",
+        "email": "Email",
+        "oldNew": "OLD/NEW",
+        "licenceStatus": "License_Status",
+        "issueDate": "Date_of_Issue",
+        "expiryDate": "Date_of_Expiration"
+      },
+      "unmapped": [],
+      "recordCount": 22,
+      "blankRowsSkipped": 0,
+      "warnings": [],
+      "errors": [],
+      "categoryId": "community-exhibitors",
+      "headerRow": 2
+    },
+    {
+      "sheetName": "VIEWING CENTRE",
+      "columns": [
+        "S/N",
+        "Cinema_Name",
+        "State",
+        "Region",
+        "Lga",
+        "Precise_Address",
+        "Category",
+        "Chain",
+        "No_of_Screens",
+        "Screen_Details",
+        "Total_Seats",
+        "Contact_Person",
+        "Phone",
+        "Email",
+        "OLD/NEW",
+        "License_Status",
+        "Date_of_Issue",
+        "Date_of_Expiration",
+        "Last_Inspection_Date"
+      ],
+      "mapped": {
+        "serial": "S/N",
+        "name": "Cinema_Name",
+        "state": "State",
+        "zone": "Region",
+        "lga": "Lga",
+        "address": "Precise_Address",
+        "category": "Category",
+        "chain": "Chain",
+        "screens": "No_of_Screens",
+        "screenDetails": "Screen_Details",
+        "seats": "Total_Seats",
+        "contactPerson": "Contact_Person",
+        "phone": "Phone",
+        "email": "Email",
+        "oldNew": "OLD/NEW",
+        "licenceStatus": "License_Status",
+        "issueDate": "Date_of_Issue",
+        "expiryDate": "Date_of_Expiration",
+        "lastInspection": "Last_Inspection_Date"
+      },
+      "unmapped": [],
+      "recordCount": 4,
+      "blankRowsSkipped": 0,
+      "warnings": [],
+      "errors": [],
+      "categoryId": "viewing-centres",
+      "headerRow": 2
+    },
+    {
+      "sheetName": "ONLINE DISTRIBUTORS",
+      "columns": [
+        "S/N",
+        "Cinema_Name",
+        "State",
+        "Region",
+        "Lga",
+        "Precise_Address",
+        "Category",
+        "Chain",
+        "No_of_Screens",
+        "Screen_Details",
+        "Total_Seats",
+        "Contact_Person",
+        "Phone",
+        "Email",
+        "OLD/NEW",
+        "License_Status",
+        "Date_of_Issue",
+        "Date_of_Expiration",
+        "Last_Inspection_Date"
+      ],
+      "mapped": {
+        "serial": "S/N",
+        "name": "Cinema_Name",
+        "state": "State",
+        "zone": "Region",
+        "lga": "Lga",
+        "address": "Precise_Address",
+        "category": "Category",
+        "chain": "Chain",
+        "screens": "No_of_Screens",
+        "screenDetails": "Screen_Details",
+        "seats": "Total_Seats",
+        "contactPerson": "Contact_Person",
+        "phone": "Phone",
+        "email": "Email",
+        "oldNew": "OLD/NEW",
+        "licenceStatus": "License_Status",
+        "issueDate": "Date_of_Issue",
+        "expiryDate": "Date_of_Expiration",
+        "lastInspection": "Last_Inspection_Date"
+      },
+      "unmapped": [],
+      "recordCount": 11,
+      "blankRowsSkipped": 2,
+      "warnings": [],
+      "errors": [],
+      "categoryId": "online-distributors",
+      "headerRow": 2
+    },
+    {
+      "sheetName": "NATIONAL EXHIBITORS",
+      "columns": [
+        "S/N",
+        "Cinema_Name",
+        "State",
+        "Region",
+        "Lga",
+        "Precise_Address",
+        "Category",
+        "Chain",
+        "No_of_Screens",
+        "Screen_Details",
+        "Total_Seats",
+        "Contact_Person",
+        "Phone",
+        "Email",
+        "OLD/NEW",
+        "License_Status",
+        "Date_of_Issue",
+        "Date_of_Expiration",
+        "Last_Inspection_Date"
+      ],
+      "mapped": {
+        "serial": "S/N",
+        "name": "Cinema_Name",
+        "state": "State",
+        "zone": "Region",
+        "lga": "Lga",
+        "address": "Precise_Address",
+        "category": "Category",
+        "chain": "Chain",
+        "screens": "No_of_Screens",
+        "screenDetails": "Screen_Details",
+        "seats": "Total_Seats",
+        "contactPerson": "Contact_Person",
+        "phone": "Phone",
+        "email": "Email",
+        "oldNew": "OLD/NEW",
+        "licenceStatus": "License_Status",
+        "issueDate": "Date_of_Issue",
+        "expiryDate": "Date_of_Expiration",
+        "lastInspection": "Last_Inspection_Date"
+      },
+      "unmapped": [],
+      "recordCount": 13,
+      "blankRowsSkipped": 0,
+      "warnings": [],
+      "errors": [],
+      "categoryId": "national-exhibitors",
+      "headerRow": 2
+    },
+    {
+      "sheetName": "REGIONAL DISTRIBUTORS",
+      "columns": [
+        "S/N",
+        "Cinema_Name",
+        "State",
+        "Region",
+        "LGA",
+        "Precise_Address",
+        "Category",
+        "Chain",
+        "No_of_Screens",
+        "Screen_Details",
+        "Total_Seats",
+        "Contact_Person",
+        "Phone",
+        "Email",
+        "OLD/NEW",
+        "License_Status",
+        "Date_of_Issue",
+        "Date_of_Expiration",
+        "Last_Inspection_Date"
+      ],
+      "mapped": {
+        "serial": "S/N",
+        "name": "Cinema_Name",
+        "state": "State",
+        "zone": "Region",
+        "lga": "LGA",
+        "address": "Precise_Address",
+        "category": "Category",
+        "chain": "Chain",
+        "screens": "No_of_Screens",
+        "screenDetails": "Screen_Details",
+        "seats": "Total_Seats",
+        "contactPerson": "Contact_Person",
+        "phone": "Phone",
+        "email": "Email",
+        "oldNew": "OLD/NEW",
+        "licenceStatus": "License_Status",
+        "issueDate": "Date_of_Issue",
+        "expiryDate": "Date_of_Expiration",
+        "lastInspection": "Last_Inspection_Date"
+      },
+      "unmapped": [],
+      "recordCount": 9,
+      "blankRowsSkipped": 0,
+      "warnings": [],
+      "errors": [],
+      "categoryId": "regional-distributors",
+      "headerRow": 2
+    },
+    {
+      "sheetName": "DRIVE IN CINEMA",
+      "columns": [
+        "S/N",
+        "Cinema_Name",
+        "State",
+        "Region",
+        "LGA",
+        "Precise_Address",
+        "Category",
+        "Chain",
+        "No_of_Screens",
+        "Screen_Details",
+        "Total_Seats",
+        "Contact_Person",
+        "Phone",
+        "Email",
+        "OLD/NEW",
+        "License_Status",
+        "Date_of_Issue",
+        "Date_of_Expiration",
+        "Last_Inspection_Date"
+      ],
+      "mapped": {
+        "serial": "S/N",
+        "name": "Cinema_Name",
+        "state": "State",
+        "zone": "Region",
+        "lga": "LGA",
+        "address": "Precise_Address",
+        "category": "Category",
+        "chain": "Chain",
+        "screens": "No_of_Screens",
+        "screenDetails": "Screen_Details",
+        "seats": "Total_Seats",
+        "contactPerson": "Contact_Person",
+        "phone": "Phone",
+        "email": "Email",
+        "oldNew": "OLD/NEW",
+        "licenceStatus": "License_Status",
+        "issueDate": "Date_of_Issue",
+        "expiryDate": "Date_of_Expiration",
+        "lastInspection": "Last_Inspection_Date"
+      },
+      "unmapped": [],
+      "recordCount": 5,
+      "blankRowsSkipped": 0,
+      "warnings": [],
+      "errors": [],
+      "categoryId": "drive-in-cinemas",
+      "headerRow": 2
+    },
+    {
+      "sheetName": "SUB URBAN",
+      "columns": [
+        "S/N",
+        "Cinema_Name",
+        "State",
+        "Region",
+        "LGA",
+        "Precise_Address",
+        "Category",
+        "Chain",
+        "No_of_Screens",
+        "Screen_Details",
+        "Total_Seats",
+        "Contact_Person",
+        "Phone",
+        "Email",
+        "OLD/NEW",
+        "License_Status",
+        "Date_of_Issue",
+        "Date_of_Expiration",
+        "Last_Inspection_Date"
+      ],
+      "mapped": {
+        "serial": "S/N",
+        "name": "Cinema_Name",
+        "state": "State",
+        "zone": "Region",
+        "lga": "LGA",
+        "address": "Precise_Address",
+        "category": "Category",
+        "chain": "Chain",
+        "screens": "No_of_Screens",
+        "screenDetails": "Screen_Details",
+        "seats": "Total_Seats",
+        "contactPerson": "Contact_Person",
+        "phone": "Phone",
+        "email": "Email",
+        "oldNew": "OLD/NEW",
+        "licenceStatus": "License_Status",
+        "issueDate": "Date_of_Issue",
+        "expiryDate": "Date_of_Expiration",
+        "lastInspection": "Last_Inspection_Date"
+      },
+      "unmapped": [],
+      "recordCount": 1,
+      "blankRowsSkipped": 0,
+      "warnings": [],
+      "errors": [],
+      "categoryId": "sub-urban",
+      "headerRow": 2
+    }
+  ],
+  "recordCount": 336,
+  "flagCounts": {
+    "unrecognised-state": 45,
+    "category-variant": 53,
+    "suspicious-seats": 17,
+    "numeric-screen-details": 7,
+    "missing-screens": 101,
+    "seat-screen-mismatch": 7,
+    "old-new-conflict": 9,
+    "missing-seats": 133,
+    "missing-lga": 37,
+    "missing-address": 32,
+    "missing-contact": 40,
+    "unparseable-issue-date": 7,
+    "unparseable-expiry-date": 7,
+    "missing-licence-status": 4,
+    "invalid-screens": 1,
+    "implausible-date": 1,
+    "missing-state": 4,
+    "missing-zone": 1
+  },
+  "dateIssues": [
+    {
+      "recordId": "exhibitors-premises-1t0qwl3",
+      "sheet": "EXHIBITORS PREMISES",
+      "row": 27,
+      "field": "Date_of_Issue",
+      "raw": "12/12/202"
+    },
+    {
+      "recordId": "exhibitors-premises-04hap1r",
+      "sheet": "EXHIBITORS PREMISES",
+      "row": 30,
+      "field": "Date_of_Expiration",
+      "raw": "06S/12/2026"
+    },
+    {
+      "recordId": "exhibitors-premises-1n5buyw",
+      "sheet": "EXHIBITORS PREMISES",
+      "row": 34,
+      "field": "Date_of_Expiration",
+      "raw": "0411/2025"
+    },
+    {
+      "recordId": "exhibitors-premises-0yhry9d",
+      "sheet": "EXHIBITORS PREMISES",
+      "row": 35,
+      "field": "Date_of_Expiration",
+      "raw": "0411/2025"
+    },
+    {
+      "recordId": "exhibitors-premises-1j8y645",
+      "sheet": "EXHIBITORS PREMISES",
+      "row": 79,
+      "field": "Date_of_Expiration",
+      "raw": "1O/12/2025"
+    },
+    {
+      "recordId": "exhibitors-premises-0sh3bzi",
+      "sheet": "EXHIBITORS PREMISES",
+      "row": 103,
+      "field": "Date_of_Issue",
+      "raw": "04//06/2023"
+    },
+    {
+      "recordId": "national-distributors-0x8d5nw",
+      "sheet": "NATIONAL DISTRIBUTORS",
+      "row": 6,
+      "field": "Date_of_Expiration",
+      "raw": "10/06.2022"
+    },
+    {
+      "recordId": "national-distributors-0rwazs0",
+      "sheet": "NATIONAL DISTRIBUTORS",
+      "row": 73,
+      "field": "Date_of_Expiration",
+      "raw": "24/09/202"
+    },
+    {
+      "recordId": "regional-exhibitors-03b92s8",
+      "sheet": "REGIONAL EXHIBITORS",
+      "row": 47,
+      "field": "Last_Inspection_Date",
+      "raw": "199"
+    },
+    {
+      "recordId": "regional-exhibitors-01l98fz",
+      "sheet": "REGIONAL EXHIBITORS",
+      "row": 61,
+      "field": "Date_of_Issue",
+      "raw": "14/14/2025"
+    },
+    {
+      "recordId": "regional-exhibitors-0dcc17j",
+      "sheet": "REGIONAL EXHIBITORS",
+      "row": 62,
+      "field": "Date_of_Issue",
+      "raw": "28//07/2024"
+    },
+    {
+      "recordId": "community-exhibitors-09jleqo",
+      "sheet": "COMMUNITY EXHIBITORS",
+      "row": 12,
+      "field": "Date_of_Issue",
+      "raw": "Valid"
+    },
+    {
+      "recordId": "community-exhibitors-1jte45d",
+      "sheet": "COMMUNITY EXHIBITORS",
+      "row": 13,
+      "field": "Date_of_Issue",
+      "raw": "Valid"
+    },
+    {
+      "recordId": "online-distributors-09yi91o",
+      "sheet": "ONLINE DISTRIBUTORS",
+      "row": 11,
+      "field": "Date_of_Expiration",
+      "raw": "1707/2026"
+    },
+    {
+      "recordId": "national-exhibitors-1gdpjwt",
+      "sheet": "NATIONAL EXHIBITORS",
+      "row": 10,
+      "field": "Date_of_Issue",
+      "raw": "20/11/202025"
+    }
+  ],
+  "seatIssues": [
+    {
+      "recordId": "exhibitors-premises-1sst2bl",
+      "sheet": "EXHIBITORS PREMISES",
+      "row": 7,
+      "raw": "4,3",
+      "status": "suspicious"
+    },
+    {
+      "recordId": "exhibitors-premises-05atua5",
+      "sheet": "EXHIBITORS PREMISES",
+      "row": 42,
+      "raw": "100100112122152",
+      "status": "suspicious"
+    },
+    {
+      "recordId": "exhibitors-premises-0jjid0y",
+      "sheet": "EXHIBITORS PREMISES",
+      "row": 45,
+      "raw": "142129159157",
+      "status": "suspicious"
+    },
+    {
+      "recordId": "exhibitors-premises-1saaskn",
+      "sheet": "EXHIBITORS PREMISES",
+      "row": 46,
+      "raw": "120120",
+      "status": "suspicious"
+    },
+    {
+      "recordId": "exhibitors-premises-09l9p0g",
+      "sheet": "EXHIBITORS PREMISES",
+      "row": 52,
+      "raw": "114104174174102",
+      "status": "suspicious"
+    },
+    {
+      "recordId": "exhibitors-premises-1svwg76",
+      "sheet": "EXHIBITORS PREMISES",
+      "row": 55,
+      "raw": "148179265192110",
+      "status": "suspicious"
+    },
+    {
+      "recordId": "exhibitors-premises-0ljkjkv",
+      "sheet": "EXHIBITORS PREMISES",
+      "row": 56,
+      "raw": "24162175144",
+      "status": "suspicious"
+    },
+    {
+      "recordId": "exhibitors-premises-1ttap2o",
+      "sheet": "EXHIBITORS PREMISES",
+      "row": 57,
+      "raw": "100100",
+      "status": "suspicious"
+    },
+    {
+      "recordId": "exhibitors-premises-1i7unsx",
+      "sheet": "EXHIBITORS PREMISES",
+      "row": 68,
+      "raw": "114134187",
+      "status": "suspicious"
+    },
+    {
+      "recordId": "exhibitors-premises-1hiiawx",
+      "sheet": "EXHIBITORS PREMISES",
+      "row": 75,
+      "raw": "104106",
+      "status": "suspicious"
+    },
+    {
+      "recordId": "exhibitors-premises-0o2p17r",
+      "sheet": "EXHIBITORS PREMISES",
+      "row": 85,
+      "raw": "129175169232",
+      "status": "suspicious"
+    },
+    {
+      "recordId": "exhibitors-premises-1wrxl28",
+      "sheet": "EXHIBITORS PREMISES",
+      "row": 89,
+      "raw": "100100100",
+      "status": "suspicious"
+    },
+    {
+      "recordId": "exhibitors-premises-0hcu9kw",
+      "sheet": "EXHIBITORS PREMISES",
+      "row": 104,
+      "raw": "208137137137139000",
+      "status": "suspicious"
+    },
+    {
+      "recordId": "exhibitors-premises-103na95",
+      "sheet": "EXHIBITORS PREMISES",
+      "row": 113,
+      "raw": "98111103",
+      "status": "suspicious"
+    },
+    {
+      "recordId": "exhibitors-premises-0h804v2",
+      "sheet": "EXHIBITORS PREMISES",
+      "row": 126,
+      "raw": "113115",
+      "status": "suspicious"
+    },
+    {
+      "recordId": "exhibitors-premises-129iquo",
+      "sheet": "EXHIBITORS PREMISES",
+      "row": 130,
+      "raw": "104150158",
+      "status": "suspicious"
+    },
+    {
+      "recordId": "drive-in-cinemas-1khz6uc",
+      "sheet": "DRIVE IN CINEMA",
+      "row": 3,
+      "raw": "150150150",
+      "status": "suspicious"
+    }
+  ],
+  "screenIssues": [
+    {
+      "recordId": "exhibitors-premises-0vdfb9x",
+      "sheet": "EXHIBITORS PREMISES",
+      "row": 81,
+      "field": "No of Screens OLD",
+      "raw": "2medium"
+    },
+    {
+      "recordId": "exhibitors-premises-0vdfb9x",
+      "sheet": "EXHIBITORS PREMISES",
+      "row": 81,
+      "field": "No of Screens NEW",
+      "raw": "2medium"
+    }
+  ],
+  "duplicates": [
+    {
+      "key": "01fri4r",
+      "recordIds": [
+        "exhibitors-premises-05s6ogj",
+        "exhibitors-premises-1mcwkoe",
+        "regional-exhibitors-16x3c7y"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "The Jewel Aieda Limited",
+        "08022237301",
+        "feyi.olusanya@thejewelaeida.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1jlffut",
+      "recordIds": [
+        "national-distributors-1tl13ao",
+        "regional-exhibitors-00hf01g",
+        "regional-exhibitors-0ez0hjx"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "MCRYSTAL CINEMA",
+        "07038199363",
+        "muyiwa@mcrystal.com.ng"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "01rhj5b",
+      "recordIds": [
+        "exhibitors-premises-14aeuqn",
+        "regional-exhibitors-1wdtwpo"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "AA Cinema Theatre",
+        "08135282971",
+        "arinzevincent81@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "02cph57",
+      "recordIds": [
+        "exhibitors-premises-13l3g9b",
+        "national-distributors-0he50o9"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "Magnificent International Leisure and Estate Services Cinema",
+        "08029535596",
+        "magnificentcinemas@magnificentinternational.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0bdg509",
+      "recordIds": [
+        "exhibitors-premises-129iquo",
+        "regional-exhibitors-18wcjg9"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "Imperial Cinema Ltd",
+        "07039807700",
+        "finance@imperialcinema.ng"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0c1ykjo",
+      "recordIds": [
+        "community-exhibitors-1tq8suu",
+        "exhibitors-premises-1es9z41"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "Divib International Ltd",
+        "07037891994",
+        "samuelaguji@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0d8p9dj",
+      "recordIds": [
+        "exhibitors-premises-1c2099n",
+        "regional-exhibitors-1r6l3kv"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "EU CINEMAS LIMITED",
+        "07077684966",
+        "eucinemaslimited@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0lixv4t",
+      "recordIds": [
+        "community-exhibitors-06vting",
+        "exhibitors-premises-0k2x6h2"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "Deex Hub Cinema",
+        "08033434372",
+        "ojimadu123@yahoo.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0lyqjb6",
+      "recordIds": [
+        "national-distributors-1kjfdlg",
+        "national-distributors-1lgier6"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "ANGELWAVE PRODUCTION LIMITED",
+        "08029990976",
+        "toborea@gmail.com"
+      ],
+      "crossCategory": false
+    },
+    {
+      "key": "0mu71fc",
+      "recordIds": [
+        "exhibitors-premises-0wi13g1",
+        "regional-exhibitors-1prgt1o"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "Terra Kulture Arts&Studio",
+        "08035298614",
+        "abbey7482@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0tzxw26",
+      "recordIds": [
+        "exhibitors-premises-04uaovw",
+        "regional-exhibitors-1o80yla"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "Box Office Cinema (Pleasure Park)",
+        "8149187337",
+        "boxofficecinemasppk@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0wc2s0b",
+      "recordIds": [
+        "exhibitors-premises-0zbi8eq",
+        "regional-exhibitors-1wf838c"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "Fasnet Cinema Enterprise",
+        "08062098388",
+        "faisal-musa@aun.edu.ng"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0z0aoey",
+      "recordIds": [
+        "exhibitors-premises-07p7tob",
+        "regional-exhibitors-0o7ucy2"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "De Krockz City Ltd",
+        "08024240001",
+        "samietos4real@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "11a2mln",
+      "recordIds": [
+        "exhibitors-premises-0hcu9kw",
+        "national-distributors-1n31zmp"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "Ozone Cinemas Ltd",
+        "07075615188",
+        "finance@dominostores.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "11hmars",
+      "recordIds": [
+        "exhibitors-premises-07wwee1",
+        "regional-exhibitors-0oimm7a"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "Vicolad Film House Creative Ltd",
+        "07068593631",
+        "gm@vicoladcinemas.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "12j18ml",
+      "recordIds": [
+        "exhibitors-premises-1dd70wb",
+        "regional-exhibitors-0331731"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "O.O.P.L Cinemas",
+        "08181100998",
+        "ooplcinemas@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "13bnuka",
+      "recordIds": [
+        "exhibitors-premises-1b189u3",
+        "regional-exhibitors-1c3agga"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "Eden Cinema",
+        "08028675856",
+        "bobby.y@edenhotel.ng"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "16iy0vj",
+      "recordIds": [
+        "exhibitors-premises-1q2xsgx",
+        "national-distributors-0b53qoi"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "Imagine Cinemas Limited",
+        "08063987187",
+        "imaginecinemas01@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1751cdr",
+      "recordIds": [
+        "community-exhibitors-09jleqo",
+        "viewing-centres-1xrm3bb"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "LA JONIC CINEMA",
+        "07037184403",
+        "lajoniccine@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1bf5lq3",
+      "recordIds": [
+        "exhibitors-premises-13pmdk9",
+        "regional-exhibitors-11uoxtn"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "Timsed Cinema",
+        "08033240825",
+        "robeisun@soldng.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1f4msho",
+      "recordIds": [
+        "exhibitors-premises-0fbqqrf",
+        "regional-exhibitors-0ryu062"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "Bamusara Recreational And Wellness Centre",
+        "08033909524",
+        "kolawolemuniru@gmail.com, talabiomotola05@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1nqcgg5",
+      "recordIds": [
+        "exhibitors-premises-0n3mxhj",
+        "national-distributors-1xl4ej5"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "Fiesta Cinema Delta",
+        "08173409441",
+        "macoma@ymail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1oec00o",
+      "recordIds": [
+        "exhibitors-premises-02dg4p3",
+        "regional-exhibitors-093z60v"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "Zara Cinemas Limited",
+        "08033059666",
+        "zaracinemas@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1rqlxer",
+      "recordIds": [
+        "community-exhibitors-190ybqb",
+        "exhibitors-premises-0w2qyzd"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "Exodus Cinema & Cafe",
+        "07060962727",
+        "exoduscinemaandgt@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1s8z9n5",
+      "recordIds": [
+        "national-exhibitors-1gdpjwt",
+        "regional-exhibitors-03oq7br"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "Viva Cinema Limited (Palms Mall)",
+        "08151112879",
+        "chika.ezeaku@persianasretail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1xaa4u0",
+      "recordIds": [
+        "exhibitors-premises-0i4eia4",
+        "national-distributors-0fkalig"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "Grand Cinema Limited (Lekki Hall)",
+        "08100118747",
+        "suleimankehinde26@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0l2z43x",
+      "recordIds": [
+        "exhibitors-premises-0ljkjkv",
+        "national-distributors-06unx7v",
+        "national-exhibitors-1s0fhuk",
+        "regional-distributors-1bh4kk6",
+        "regional-exhibitors-0ft5bi4"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "08056551132",
+        "o.oseikhuemen@bildiamo.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1n2xhr7",
+      "recordIds": [
+        "exhibitors-premises-06br0vz",
+        "national-distributors-1hqbd40",
+        "national-exhibitors-1awzrds",
+        "regional-exhibitors-1syn7cq"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "08131580467",
+        "o.badiru@silverbirdgroup.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "08fz7m6",
+      "recordIds": [
+        "exhibitors-premises-0yhry9d",
+        "exhibitors-premises-1mcy14y",
+        "regional-exhibitors-1slgvqj"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "08034802723",
+        "nwajokoclareth@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0bynnq9",
+      "recordIds": [
+        "exhibitors-premises-0oy4tt8",
+        "national-distributors-0bn95bu",
+        "national-distributors-1ie82un"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone"
+      ],
+      "matchedOn": [
+        "OLOFLIX STREAMING GLOBAL MTD",
+        "07037092005"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0nqkikt",
+      "recordIds": [
+        "exhibitors-premises-0so5j7i",
+        "exhibitors-premises-1soc52o",
+        "national-distributors-1qekk2n"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "07046280947",
+        "ifo@peppronifoods.com.ng"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0yt9492",
+      "recordIds": [
+        "drive-in-cinemas-0q0w7x3",
+        "exhibitors-premises-0h804v2",
+        "exhibitors-premises-1hiiawx"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "08054456595",
+        "valtemmy@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "15t55ds",
+      "recordIds": [
+        "exhibitors-premises-06viywg",
+        "exhibitors-premises-15t3jug",
+        "regional-exhibitors-1h31ga1"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone"
+      ],
+      "matchedOn": [
+        "Heritage Cinema",
+        "07033943838"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1jgsc6j",
+      "recordIds": [
+        "exhibitors-premises-0sh3bzi",
+        "regional-distributors-1jt1mpr",
+        "regional-exhibitors-0dcc17j"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "08024570521",
+        "olaolaniyi@ktdentertainment.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "014s5wc",
+      "recordIds": [
+        "national-distributors-1d96wld",
+        "online-distributors-1g12srs"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "08056028559",
+        "adeniadebayo@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "01v8y8r",
+      "recordIds": [
+        "drive-in-cinemas-1khz6uc",
+        "online-distributors-1k4743e"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "08036540783",
+        "omokpaleke@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "02jjh7w",
+      "recordIds": [
+        "exhibitors-premises-1mxz6lk",
+        "regional-exhibitors-0ucq4hx"
+      ],
+      "reasons": [
+        "Same name",
+        "Same email"
+      ],
+      "matchedOn": [
+        "Vinmilan Cinema Ltd",
+        "beeeegra8t@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "06ihcb3",
+      "recordIds": [
+        "exhibitors-premises-1w84363",
+        "regional-exhibitors-1kovjxv"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "07035922923",
+        "boxxcentral@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "092pev4",
+      "recordIds": [
+        "community-exhibitors-1j7zvhd",
+        "exhibitors-premises-0c1orup"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "08033349449",
+        "saidibalogun@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0bjucjn",
+      "recordIds": [
+        "exhibitors-premises-0am3tx0",
+        "regional-exhibitors-1ebepah"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "07037416537",
+        "adetonagrace95@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0ci8afd",
+      "recordIds": [
+        "exhibitors-premises-17s26nv",
+        "regional-exhibitors-1vldcd6"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone"
+      ],
+      "matchedOn": [
+        "Spotrite Cinema",
+        "'08063175219"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0ibk8lc",
+      "recordIds": [
+        "exhibitors-premises-1rrqs9r",
+        "regional-exhibitors-1irg1fp"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "07032857992",
+        "omiatony@yahoo.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0nyxdzn",
+      "recordIds": [
+        "exhibitors-premises-1to1jps",
+        "regional-exhibitors-1lyziqw"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "08062389113",
+        "daniel.nwobodo@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0ogqd0p",
+      "recordIds": [
+        "exhibitors-premises-1y6kddr",
+        "regional-exhibitors-0sn8r8s"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "08033351645",
+        "afemaiwondercity@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0q6woxg",
+      "recordIds": [
+        "exhibitors-premises-05atua5",
+        "national-distributors-1yub493"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone"
+      ],
+      "matchedOn": [
+        "Cinema 21 Cinemas",
+        "08037543131"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0uxfl78",
+      "recordIds": [
+        "exhibitors-premises-1k64t0l",
+        "regional-exhibitors-1qyloao"
+      ],
+      "reasons": [
+        "Same name",
+        "Same email"
+      ],
+      "matchedOn": [
+        "Starlite Cinema Limited",
+        "olutunjisamuelson@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0vveabc",
+      "recordIds": [
+        "exhibitors-premises-095551t",
+        "regional-exhibitors-064rjbm"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "08034247642",
+        "esthermathew1998@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0whjrjv",
+      "recordIds": [
+        "exhibitors-premises-1qow8k0",
+        "regional-exhibitors-1j6ril4"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "08134367074",
+        "brands@cinemaxdr.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0worsts",
+      "recordIds": [
+        "exhibitors-premises-1j7dwfi",
+        "regional-exhibitors-0pnkqf6"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone"
+      ],
+      "matchedOn": [
+        "Portland Luxury Cinema",
+        "08034328004"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0xbbwls",
+      "recordIds": [
+        "national-exhibitors-0b17xbc",
+        "regional-exhibitors-0crdfwe"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "0816089943",
+        "eokubule@filmhouseng.ng.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "119xk24",
+      "recordIds": [
+        "exhibitors-premises-0vdfb9x",
+        "regional-exhibitors-03b92s8"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "08037263510",
+        "deemasterbox@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "11qkj19",
+      "recordIds": [
+        "exhibitors-premises-0642qoy",
+        "regional-exhibitors-1qq1408"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone"
+      ],
+      "matchedOn": [
+        "Wosam Cinemas",
+        "09166420010"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "187r68g",
+      "recordIds": [
+        "exhibitors-premises-11m2277",
+        "national-distributors-0nra1eh"
+      ],
+      "reasons": [
+        "Same name",
+        "Same email"
+      ],
+      "matchedOn": [
+        "Arowolo Gardens Cinema",
+        "delzare@yahoo.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "18fqnv3",
+      "recordIds": [
+        "exhibitors-premises-1fpf3wb",
+        "national-distributors-1mh8nki"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "08168900793",
+        "nimidepglo@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1el8sqb",
+      "recordIds": [
+        "exhibitors-premises-08lz7dk",
+        "regional-exhibitors-0bifao4"
+      ],
+      "reasons": [
+        "Same name",
+        "Same email"
+      ],
+      "matchedOn": [
+        "Hogis Luxury Suite Nigeria Limited",
+        "winbishmoses@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1extwik",
+      "recordIds": [
+        "exhibitors-premises-0jbw7if",
+        "exhibitors-premises-146gbxf"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "09055179090",
+        "irismultiventure@gmail.com"
+      ],
+      "crossCategory": false
+    },
+    {
+      "key": "1if2kuy",
+      "recordIds": [
+        "national-distributors-0e0vlux",
+        "regional-exhibitors-0x63c6u"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "08181007294",
+        "remilekunebenezer2022@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1iykw1e",
+      "recordIds": [
+        "exhibitors-premises-10kv6ja",
+        "regional-exhibitors-0pzpkgy"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "08060011624",
+        "acecinemasng@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1k9zadw",
+      "recordIds": [
+        "exhibitors-premises-1qepuql",
+        "national-distributors-0i7qpnd"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone"
+      ],
+      "matchedOn": [
+        "Ojaja Movies And Cinemas Limited",
+        "07069671767"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1kfdijq",
+      "recordIds": [
+        "exhibitors-premises-0d0dyl4",
+        "national-distributors-0xi6kfu"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "08050386920",
+        "grenhauzcinema@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1lfcrs8",
+      "recordIds": [
+        "exhibitors-premises-0ux5kpb",
+        "regional-exhibitors-1p8nh97"
+      ],
+      "reasons": [
+        "Same name",
+        "Same phone"
+      ],
+      "matchedOn": [
+        "Glory To Glory Cinema",
+        "08033032575"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1ngl64f",
+      "recordIds": [
+        "exhibitors-premises-0l615n5",
+        "national-distributors-0rt7cog"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "08033751727",
+        "mickeyafolabi@yahoo.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1p4mdt2",
+      "recordIds": [
+        "exhibitors-premises-0jjid0y",
+        "national-distributors-1ah702m"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "07067577800",
+        "gm@kadaplaza.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1rwtyco",
+      "recordIds": [
+        "exhibitors-premises-1sst2bl",
+        "national-distributors-0w0fvbt"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "08123644688",
+        "jnnanka@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1ylp9db",
+      "recordIds": [
+        "exhibitors-premises-0qwem3j",
+        "regional-exhibitors-0voivf0"
+      ],
+      "reasons": [
+        "Same phone",
+        "Same email"
+      ],
+      "matchedOn": [
+        "08030904211",
+        "maryamhh2008@yahoo.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0i9h1zl",
+      "recordIds": [
+        "community-exhibitors-1uggvb8",
+        "community-exhibitors-1w0ntbh",
+        "exhibitors-premises-01ax5ma",
+        "exhibitors-premises-0ezb6k2",
+        "exhibitors-premises-0pjh6qb",
+        "exhibitors-premises-0q3x5kl",
+        "exhibitors-premises-0q4ivq7",
+        "exhibitors-premises-0rysnmf",
+        "exhibitors-premises-0xnnzd8",
+        "exhibitors-premises-1k64t0l",
+        "exhibitors-premises-1wrxl28",
+        "exhibitors-premises-1xm2a5p",
+        "national-distributors-08vzcm7",
+        "national-distributors-1kvmo8b",
+        "regional-exhibitors-1qyloao"
+      ],
+      "reasons": [
+        "Same phone"
+      ],
+      "matchedOn": [
+        "08027614550"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "03yzm84",
+      "recordIds": [
+        "exhibitors-premises-02l7xs2",
+        "exhibitors-premises-040jp88",
+        "exhibitors-premises-0dq3bzz",
+        "exhibitors-premises-0ejgere",
+        "exhibitors-premises-103na95",
+        "exhibitors-premises-106sndc",
+        "exhibitors-premises-1i7unsx",
+        "exhibitors-premises-1v0jc3g",
+        "exhibitors-premises-1yhizgn",
+        "national-distributors-0wpiq9k"
+      ],
+      "reasons": [
+        "Same phone"
+      ],
+      "matchedOn": [
+        "08028365776"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0aiagkt",
+      "recordIds": [
+        "community-exhibitors-1w0ntbh",
+        "exhibitors-premises-01ax5ma",
+        "exhibitors-premises-0pjh6qb",
+        "exhibitors-premises-0q3x5kl",
+        "exhibitors-premises-0xnnzd8",
+        "national-distributors-0jw1d44",
+        "national-distributors-1kvmo8b"
+      ],
+      "reasons": [
+        "Same email"
+      ],
+      "matchedOn": [
+        "olumutimisamuelson@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1bo8y3x",
+      "recordIds": [
+        "exhibitors-premises-02l7xs2",
+        "exhibitors-premises-040jp88",
+        "exhibitors-premises-0dq3bzz",
+        "exhibitors-premises-103na95",
+        "exhibitors-premises-106sndc",
+        "exhibitors-premises-1i7unsx",
+        "exhibitors-premises-1yhizgn"
+      ],
+      "reasons": [
+        "Same email"
+      ],
+      "matchedOn": [
+        "treasuryfilmhouse@filmhouseng.com"
+      ],
+      "crossCategory": false
+    },
+    {
+      "key": "1vpkshs",
+      "recordIds": [
+        "exhibitors-premises-01zccdm",
+        "exhibitors-premises-0992u3k",
+        "exhibitors-premises-0o2p17r",
+        "exhibitors-premises-1t0qwl3",
+        "national-distributors-0pfzpxk",
+        "national-exhibitors-0rw8uuu",
+        "regional-exhibitors-12dhkc6"
+      ],
+      "reasons": [
+        "Same email"
+      ],
+      "matchedOn": [
+        "kene@mkparu.fsnet.co.uk"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "00ziv8x",
+      "recordIds": [
+        "drive-in-cinemas-0gnjd1p",
+        "exhibitors-premises-06g598y",
+        "exhibitors-premises-09l9p0g",
+        "exhibitors-premises-1feynm0",
+        "exhibitors-premises-1svwg76"
+      ],
+      "reasons": [
+        "Same email"
+      ],
+      "matchedOn": [
+        "s.adenuga@silverbirdgroup.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0ak4ogl",
+      "recordIds": [
+        "exhibitors-premises-08lz7dk",
+        "exhibitors-premises-1mxz6lk",
+        "regional-exhibitors-09kgpr4",
+        "regional-exhibitors-0bifao4",
+        "regional-exhibitors-0ucq4hx"
+      ],
+      "reasons": [
+        "Same phone"
+      ],
+      "matchedOn": [
+        "07035750055"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0smibsx",
+      "recordIds": [
+        "exhibitors-premises-08yf4k5",
+        "national-distributors-1rcubyp",
+        "national-exhibitors-1lc08b1",
+        "regional-exhibitors-01kg4cx",
+        "regional-exhibitors-0yus8fu"
+      ],
+      "reasons": [
+        "Same phone"
+      ],
+      "matchedOn": [
+        "08027147327"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "03cv5y2",
+      "recordIds": [
+        "community-exhibitors-0ghrhi1",
+        "exhibitors-premises-0jbw7if",
+        "exhibitors-premises-146gbxf",
+        "regional-exhibitors-0z2242y"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Iris Cinema"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0cbr30s",
+      "recordIds": [
+        "exhibitors-premises-12sugxs",
+        "national-distributors-01ca1dj",
+        "national-distributors-1yyn7gp",
+        "national-exhibitors-1sc0i5x"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Ebonylife Ltd"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0eblzjr",
+      "recordIds": [
+        "exhibitors-premises-02l7xs2",
+        "exhibitors-premises-1rw8hv7",
+        "national-exhibitors-0b17xbc",
+        "regional-exhibitors-0crdfwe"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "The Filmhouse Ltd"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0twvd4j",
+      "recordIds": [
+        "exhibitors-premises-0h804v2",
+        "exhibitors-premises-1hiiawx",
+        "national-distributors-0e0vlux",
+        "regional-exhibitors-0x63c6u"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Blue Pictures Limited"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1glk83w",
+      "recordIds": [
+        "exhibitors-premises-0o2p17r",
+        "national-distributors-0pfzpxk",
+        "national-exhibitors-0rw8uuu",
+        "regional-exhibitors-12dhkc6"
+      ],
+      "reasons": [
+        "Same phone"
+      ],
+      "matchedOn": [
+        "07038250547"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1h2rpe3",
+      "recordIds": [
+        "exhibitors-premises-1cssi4r",
+        "national-distributors-02p4z19",
+        "national-exhibitors-1vcoyaa",
+        "regional-exhibitors-0a0i5lz"
+      ],
+      "reasons": [
+        "Same email"
+      ],
+      "matchedOn": [
+        "legal.nileentertainment@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1lutiln",
+      "recordIds": [
+        "exhibitors-premises-0ljkjkv",
+        "national-distributors-06unx7v",
+        "national-exhibitors-1s0fhuk",
+        "regional-exhibitors-0ft5bi4"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Skymall Global Invt Ltd NOVOJO ESTATE LEKKI)"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1rgdbi2",
+      "recordIds": [
+        "exhibitors-premises-0ze6w43",
+        "regional-distributors-0ngzvbm",
+        "regional-exhibitors-0a52jip",
+        "regional-exhibitors-1756h6b"
+      ],
+      "reasons": [
+        "Same email"
+      ],
+      "matchedOn": [
+        "talabiomotola05@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "067yonm",
+      "recordIds": [
+        "exhibitors-premises-0q4ivq7",
+        "exhibitors-premises-13e78a2",
+        "regional-exhibitors-10815ut"
+      ],
+      "reasons": [
+        "Same email"
+      ],
+      "matchedOn": [
+        "fashola.charles@yahoo.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "068kmtf",
+      "recordIds": [
+        "exhibitors-premises-1cssi4r",
+        "national-exhibitors-1vcoyaa",
+        "regional-exhibitors-0a0i5lz"
+      ],
+      "reasons": [
+        "Same phone"
+      ],
+      "matchedOn": [
+        "08052908797"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0actzhw",
+      "recordIds": [
+        "community-exhibitors-1jbu8pi",
+        "exhibitors-premises-1w84363",
+        "regional-exhibitors-1kovjxv"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "FILMBOXX CINEMA"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0aotwq0",
+      "recordIds": [
+        "exhibitors-premises-0vdfb9x",
+        "exhibitors-premises-1os9p3b",
+        "regional-exhibitors-03b92s8"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Azers Cinema Ltd"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0au7vwp",
+      "recordIds": [
+        "community-exhibitors-0m6vxjd",
+        "exhibitors-premises-1rrqs9r",
+        "regional-exhibitors-1irg1fp"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Mila Cinemas"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0goudjz",
+      "recordIds": [
+        "drive-in-cinemas-0gnjd1p",
+        "exhibitors-premises-09l9p0g",
+        "exhibitors-premises-1svwg76"
+      ],
+      "reasons": [
+        "Same phone"
+      ],
+      "matchedOn": [
+        "08039418917"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0hwdi9m",
+      "recordIds": [
+        "exhibitors-premises-12sugxs",
+        "national-distributors-01ca1dj",
+        "national-distributors-1yyn7gp"
+      ],
+      "reasons": [
+        "Same email"
+      ],
+      "matchedOn": [
+        "oodiete@ebonylifemedia.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0k7dyfr",
+      "recordIds": [
+        "exhibitors-premises-08yf4k5",
+        "national-distributors-1rcubyp",
+        "regional-exhibitors-0yus8fu"
+      ],
+      "reasons": [
+        "Same email"
+      ],
+      "matchedOn": [
+        "segunakintunde.goldeneffects@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0nr8fgm",
+      "recordIds": [
+        "exhibitors-premises-0thsbxv",
+        "national-distributors-0l67xcw",
+        "national-distributors-0x8d5nw"
+      ],
+      "reasons": [
+        "Same phone"
+      ],
+      "matchedOn": [
+        "07032702919"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0rrqhst",
+      "recordIds": [
+        "exhibitors-premises-06kafjk",
+        "exhibitors-premises-0qwem3j",
+        "regional-exhibitors-0voivf0"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Dex View Ltd"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "10xi2r5",
+      "recordIds": [
+        "national-exhibitors-1lc08b1",
+        "regional-exhibitors-01kg4cx",
+        "regional-exhibitors-0yus8fu"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Kap Cinemas"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "13v8g24",
+      "recordIds": [
+        "community-exhibitors-0kikco7",
+        "exhibitors-premises-0zuwx90",
+        "regional-exhibitors-0u4reif"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "KANO CITY MALL LIMITED"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "154oh3y",
+      "recordIds": [
+        "community-exhibitors-1e2j7zf",
+        "exhibitors-premises-1qow8k0",
+        "regional-exhibitors-1j6ril4"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Brand Cinemas Ltd"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "15o9j66",
+      "recordIds": [
+        "exhibitors-premises-00kyk15",
+        "national-distributors-1xarbha",
+        "national-exhibitors-0vz0iou"
+      ],
+      "reasons": [
+        "Same phone"
+      ],
+      "matchedOn": [
+        "07034249036"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1csdw9r",
+      "recordIds": [
+        "exhibitors-premises-0zm67u4",
+        "regional-distributors-0ngzvbm",
+        "regional-exhibitors-0a52jip"
+      ],
+      "reasons": [
+        "Same phone"
+      ],
+      "matchedOn": [
+        "07033958459"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1iuhtpy",
+      "recordIds": [
+        "national-distributors-0pfzpxk",
+        "national-exhibitors-0rw8uuu",
+        "regional-exhibitors-12dhkc6"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Genesis Deluxe Cinema Ltd (South West)"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "009ztr5",
+      "recordIds": [
+        "national-exhibitors-1vcoyaa",
+        "regional-exhibitors-0a0i5lz"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Nile Screens Limited (VICTORIA ISLAND, Lagos)"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "00sx89j",
+      "recordIds": [
+        "exhibitors-premises-0oy4tt8",
+        "national-distributors-0bn95bu"
+      ],
+      "reasons": [
+        "Same email"
+      ],
+      "matchedOn": [
+        "africastreettv@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "033wwaq",
+      "recordIds": [
+        "community-exhibitors-145rls3",
+        "exhibitors-premises-19qie65"
+      ],
+      "reasons": [
+        "Same phone"
+      ],
+      "matchedOn": [
+        "08163152798"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "06h8njq",
+      "recordIds": [
+        "exhibitors-premises-01vzdo1",
+        "regional-exhibitors-02055kf"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "HAVANA CINEMA"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "085u0c0",
+      "recordIds": [
+        "exhibitors-premises-0roxfou",
+        "national-distributors-0q6hkde"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Genesis Deluxe Cinema Ltd"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "08q2jmi",
+      "recordIds": [
+        "community-exhibitors-18u2swx",
+        "exhibitors-premises-09te6pl"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "09 CINEMAS LTD"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0bi0smb",
+      "recordIds": [
+        "national-distributors-1e0uotr",
+        "regional-exhibitors-0vqdxrk"
+      ],
+      "reasons": [
+        "Same phone"
+      ],
+      "matchedOn": [
+        "08038052666"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0c1e8kd",
+      "recordIds": [
+        "exhibitors-premises-1c1fgzv",
+        "regional-exhibitors-0f1tsbs"
+      ],
+      "reasons": [
+        "Same email"
+      ],
+      "matchedOn": [
+        "thelisasuites@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0cqht4m",
+      "recordIds": [
+        "community-exhibitors-1uggvb8",
+        "exhibitors-premises-0xnnzd8"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Ravella Cinema Ventures"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0dm6rh0",
+      "recordIds": [
+        "exhibitors-premises-04hap1r",
+        "national-distributors-1im7kh7"
+      ],
+      "reasons": [
+        "Same email"
+      ],
+      "matchedOn": [
+        "jbnegbenebor1@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0e3peus",
+      "recordIds": [
+        "exhibitors-premises-0ze6w43",
+        "regional-exhibitors-1756h6b"
+      ],
+      "reasons": [
+        "Same phone"
+      ],
+      "matchedOn": [
+        "08023254615"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0g5e0lu",
+      "recordIds": [
+        "exhibitors-premises-0q4ivq7",
+        "exhibitors-premises-13e78a2"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Covenant Plus Cinemas (Exhibition Presmises)"
+      ],
+      "crossCategory": false
+    },
+    {
+      "key": "0guwhpx",
+      "recordIds": [
+        "national-exhibitors-1lc08b1",
+        "regional-exhibitors-01kg4cx"
+      ],
+      "reasons": [
+        "Same email"
+      ],
+      "matchedOn": [
+        "segunakintundegoldeneffect@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0gzpz9g",
+      "recordIds": [
+        "exhibitors-premises-0q3x5kl",
+        "national-distributors-1kvmo8b"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Filmworld Cinema Limited"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0ho2pum",
+      "recordIds": [
+        "community-exhibitors-0kunqj5",
+        "regional-exhibitors-0jg8um6"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Cineclub By Planeta Cinema"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0i8fv5y",
+      "recordIds": [
+        "exhibitors-premises-0zemp4c",
+        "national-distributors-15c8r9e"
+      ],
+      "reasons": [
+        "Same email"
+      ],
+      "matchedOn": [
+        "trevor@kadacinemas.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0i8o2hg",
+      "recordIds": [
+        "exhibitors-premises-06viywg",
+        "exhibitors-premises-15t3jug"
+      ],
+      "reasons": [
+        "Same email"
+      ],
+      "matchedOn": [
+        "emmanuelowolabi1629@gmail.com"
+      ],
+      "crossCategory": false
+    },
+    {
+      "key": "0k2p3mx",
+      "recordIds": [
+        "exhibitors-premises-1ttap2o",
+        "national-distributors-1u5wy4o"
+      ],
+      "reasons": [
+        "Same phone"
+      ],
+      "matchedOn": [
+        "07038400643"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0nsh0pe",
+      "recordIds": [
+        "exhibitors-premises-0zm67u4",
+        "regional-exhibitors-0a52jip"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Voicenel Cinema"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0p0npwp",
+      "recordIds": [
+        "exhibitors-premises-0yhry9d",
+        "regional-exhibitors-1slgvqj"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Downtown Cinema"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0p1vjpv",
+      "recordIds": [
+        "community-exhibitors-1w0ntbh",
+        "exhibitors-premises-01ax5ma"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Kino Screen Cinema"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0t9hqkd",
+      "recordIds": [
+        "exhibitors-premises-1soc52o",
+        "national-distributors-1qekk2n"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Pepperoni Cinemas Ltd"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0uhtsfn",
+      "recordIds": [
+        "exhibitors-premises-0thsbxv",
+        "national-distributors-0x8d5nw"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Platium Games And Cinemas Ltd"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0wu4qfv",
+      "recordIds": [
+        "exhibitors-premises-1j8y645",
+        "regional-exhibitors-1y7ztjm"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Cinema D Hybrid"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "0x3ab15",
+      "recordIds": [
+        "exhibitors-premises-0sh3bzi",
+        "regional-exhibitors-0dcc17j"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "K.T.D ENTERTAINMENT LTD"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "10gt7o0",
+      "recordIds": [
+        "exhibitors-premises-12sugxs",
+        "national-distributors-1yyn7gp"
+      ],
+      "reasons": [
+        "Same phone"
+      ],
+      "matchedOn": [
+        "08120464864"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "149z0bk",
+      "recordIds": [
+        "exhibitors-premises-0ezb6k2",
+        "regional-exhibitors-10815ut"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Covenant Plus Cinemas"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "14fhri3",
+      "recordIds": [
+        "exhibitors-premises-0roxfou",
+        "exhibitors-premises-1ei2m5l"
+      ],
+      "reasons": [
+        "Same email"
+      ],
+      "matchedOn": [
+        "novareaccount@gdcinemas.com"
+      ],
+      "crossCategory": false
+    },
+    {
+      "key": "15kbvf5",
+      "recordIds": [
+        "exhibitors-premises-0ejgere",
+        "exhibitors-premises-1v0jc3g"
+      ],
+      "reasons": [
+        "Same email"
+      ],
+      "matchedOn": [
+        "jadeagbo@filmhouseng.com"
+      ],
+      "crossCategory": false
+    },
+    {
+      "key": "16kygsj",
+      "recordIds": [
+        "exhibitors-premises-1saaskn",
+        "national-distributors-1f7iz3k"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Citadels Continental Hotels and Suite Ltd"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "17frjh9",
+      "recordIds": [
+        "exhibitors-premises-0pgmi97",
+        "national-distributors-1dgkz18"
+      ],
+      "reasons": [
+        "Same phone"
+      ],
+      "matchedOn": [
+        "08032263030"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "17kle8h",
+      "recordIds": [
+        "exhibitors-premises-0pjh6qb",
+        "national-distributors-0jw1d44"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Dream Park Cinemas"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1czv1uk",
+      "recordIds": [
+        "exhibitors-premises-0olm5d5",
+        "regional-exhibitors-0wf7tc3"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Sanford Cinema"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1e50m53",
+      "recordIds": [
+        "exhibitors-premises-00kyk15",
+        "national-exhibitors-0vz0iou"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Nova Cinema (Lekki)"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1lghgdn",
+      "recordIds": [
+        "exhibitors-premises-16zehdb",
+        "regional-exhibitors-1oxdk4t"
+      ],
+      "reasons": [
+        "Same phone"
+      ],
+      "matchedOn": [
+        "09169848174"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1mas4vl",
+      "recordIds": [
+        "national-distributors-0i7qpnd",
+        "regional-exhibitors-0x397a5"
+      ],
+      "reasons": [
+        "Same email"
+      ],
+      "matchedOn": [
+        "mentcoomfilms@gmail.com"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1mgij9u",
+      "recordIds": [
+        "community-exhibitors-1wp2q06",
+        "exhibitors-premises-1350635"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "BONNY CONSULATE CINEMA"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1msksw5",
+      "recordIds": [
+        "exhibitors-premises-0ezs2sr",
+        "exhibitors-premises-0roxfou"
+      ],
+      "reasons": [
+        "Same phone"
+      ],
+      "matchedOn": [
+        "07068059667"
+      ],
+      "crossCategory": false
+    },
+    {
+      "key": "1nsog0h",
+      "recordIds": [
+        "exhibitors-premises-13e78a2",
+        "regional-exhibitors-10815ut"
+      ],
+      "reasons": [
+        "Same phone"
+      ],
+      "matchedOn": [
+        "08030652525"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1qnxxv9",
+      "recordIds": [
+        "exhibitors-premises-04hap1r",
+        "national-distributors-0au9syt"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Omicof Dynamic Concenpt Ltd (Deepend Entertainment)"
+      ],
+      "crossCategory": true
+    },
+    {
+      "key": "1wg1onp",
+      "recordIds": [
+        "community-exhibitors-16cg8b7",
+        "exhibitors-premises-0yzrjco"
+      ],
+      "reasons": [
+        "Same name"
+      ],
+      "matchedOn": [
+        "Gemba Cinema Hub"
+      ],
+      "crossCategory": true
+    }
+  ]
+}
